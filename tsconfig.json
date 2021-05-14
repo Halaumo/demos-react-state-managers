@@ -9,7 +9,7 @@
     ],
     "jsx": "react-jsx",
     "outDir": "./tsc/.tsc",
-    "moduleResolution": "Node",
+    "moduleResolution": "node",
     "isolatedModules": true,
     "resolveJsonModule": true,
     "esModuleInterop": true,
